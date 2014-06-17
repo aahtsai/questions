@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #this is great!
 for filename in $*
 do
