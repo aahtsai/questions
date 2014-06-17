@@ -1,4 +1,4 @@
-#yeah
+#ugh
 for filename in $*
 do
     echo $filename
